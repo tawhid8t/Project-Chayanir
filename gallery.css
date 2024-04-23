@@ -15,10 +15,10 @@ figure {
   perspective: 900px;
 }
 figure:nth-child(1) {
-  --imageUrl: url("https://assets.codepen.io/652/the-lucky-neko-CM7a-XBD4AU-unsplash.jpg");
+  --imageUrl: url("https://i.ibb.co/5MmgGdR/366717843-991035195468047-6728279779691120281-n.jpg");
 }
 figure:nth-child(2) {
-  --imageUrl: url("https://assets.codepen.io/652/karsten-winegeart-NE0XGVKTmcA-unsplash.jpg");
+  --imageUrl: url("https://i.ibb.co/Dz3ydHQ/f939a99d-96ba-4966-a170-41f93c1de54a.jpg");
 }
 figure:nth-child(3) {
   --imageUrl: url("https://assets.codepen.io/652/kabo-NjWZ07sPEJE-unsplash.jpg");

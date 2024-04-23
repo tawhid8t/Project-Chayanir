@@ -81,7 +81,7 @@ a {
 }
 
 .logo {
-  max-width: 120px;
+  max-width: 520px;
 }
 
 html,
@@ -94,10 +94,11 @@ body {
 }
 
 .header {
-  background-image: url("assets/header.jpg");
+  background-image: url("assets/header.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  
 }
 
 nav {
