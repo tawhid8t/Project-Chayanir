@@ -21,16 +21,16 @@ figure:nth-child(2) {
   --imageUrl: url("https://i.ibb.co/Dz3ydHQ/f939a99d-96ba-4966-a170-41f93c1de54a.jpg");
 }
 figure:nth-child(3) {
-  --imageUrl: url("https://assets.codepen.io/652/kabo-NjWZ07sPEJE-unsplash.jpg");
+  --imageUrl: url("https://i.ibb.co/ZTbMCgn/367423121-991035058801394-1992636450967838949-n.jpg");
 }
 figure:nth-child(4) {
-  --imageUrl: url("https://assets.codepen.io/652/giacomo-lucarini-7M0SG3ZKdlE-unsplash.jpg");
+  --imageUrl: url("https://i.ibb.co/gDL6cfZ/366724531-991035488801351-7719494324181550000-n.jpg");
 }
 figure:nth-child(5) {
-  --imageUrl: url("https://assets.codepen.io/652/sergey-semin-Y0WXj3xqJz0-unsplash.jpg");
+  --imageUrl: url("https://i.ibb.co/pwjctXp/367429893-991035308801369-3937969226686419106-n.jpg");
 }
 figure:nth-child(6) {
-  --imageUrl: url("https://assets.codepen.io/652/jordan-bigelow-X5VoG4MA5aI-unsplash.jpg");
+  --imageUrl: url("https://i.ibb.co/xXqz9GY/366711185-991035602134673-5077055580095600674-n.jpg");
 }
 figure img {
   width: 100%;
@@ -482,7 +482,7 @@ figure img {
   padding-top: 2em;
   padding-inline: 100px 25px;
   z-index: -1;
-  font-size: 32px;
+  font-size: 22px;
   width: 100%;
   height: 100%;
 }
